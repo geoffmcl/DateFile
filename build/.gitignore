@@ -1,0 +1,13 @@
+.vs/*
+*.vcxproj
+*.filters
+*.user
+CMakeCache.txt
+CMakeFiles/*
+*.dir/*
+*.sln
+Debug/*
+Release/*
+bldlog-1.txt
+cmake_install.cmake
+x64/*
